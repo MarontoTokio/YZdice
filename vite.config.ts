@@ -7,7 +7,7 @@ declare var __dirname: string;
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/YZdice/",
+  base: "./",
   plugins: [react()],
   assetsInclude: ["**/*.glb", "**/*.hdr"],
   build: {
