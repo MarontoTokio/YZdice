@@ -1,13 +1,13 @@
 {
-  "name": "Dice",
+  "name": "Dice for YZ",
   "version": "2.0.0",
   "manifest_version": 1,
   "author": "Owlbear Rodeo",
-  "homepage_url": "https://extensions.owlbear.rodeo/dice",
+  "homepage_url": "https://github.com/MarontoTokio/YZdice",
   "icon": "/logo.png",
-  "description": "Beautiful 3D dice extension for d20 based systems",
+  "description": "Beautiful 3D dice extension for Dice for YZs",
   "action": {
-    "title": "Dice",
+    "title": "Dice for YZ",
     "icon": "/icon.svg",
     "popover": "/",
     "height": 700,
